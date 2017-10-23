@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
+// import MainLayout
 import '../sass/common.scss';
 
 // На текущий момент, этот компонент является основным корневым
